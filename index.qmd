@@ -1,31 +1,43 @@
 ---
-title: "MY COURSE CODE - MY COURSE NAME"
+title: "微观经济学"
+subtitle: "课程主页"
+author: "主讲教师：张三"
+date: "2026"
+lang: zh
 format:
   html:
-    include-before-body: helpers/remove-nav.html
-    include-after-body: helpers/remove-title.html
+    toc: true
+    theme: cosmo
 ---
 
-# 📑 Course Brief
+# 课程简介
 
-**Focus:** the focus of this course is to learn stuff
+本课程为经济学专业基础课程，旨在帮助学生理解市场机制、理性选择、需求与供给理论、消费者行为、生产理论、成本与市场结构等微观经济学的核心内容。
 
-**How:** hands-on learning
+# 教师介绍
 
-# 🎯 Learning Objectives
+张三，经济学博士，长期从事微观经济理论与应用研究，具有丰富的高校授课经验。
 
-- You will discover how to do X
-- Distinguish X from **X**
-- Practice how to put things _in italic_
-- Discover how to highlight `code` inline
-- Proceed to learn stuff
+# 课程目标
 
+- 理解微观经济学的基础概念和分析工具
+- 掌握价格与市场机制的运行原理
+- 能够运用微观经济学理论分析实际经济问题
+- 培养学生独立思考与批判性分析能力
 
------------------
+# 授课计划
 
-**Select Academic Year/Term:**
+1. 微观经济学导论
+2. 需求、供给与市场均衡
+3. 弹性理论
+4. 消费者选择理论
+5. 生产与成本理论
+6. 完全竞争市场
+7. 垄断与不完全竞争市场
+8. 要素市场分析
+9. 市场失灵与政府干预
+10. 期末复习与总结
 
-<a href="2023/index.qmd">
-    <button class="button-61">2022/23</button>
-</a>
+# 课程资料
 
+详细资料与课件可在本主页相关页面查阅。
